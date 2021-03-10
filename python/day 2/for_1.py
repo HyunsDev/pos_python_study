@@ -1,8 +1,3 @@
-# 반복문 for 기본
-test_list = ['one', 'two', 'three'] 
-for i in test_list: 
-    print(i)
-
 marks = [90, 25, 67, 45, 80]
 number = 0 
 for mark in marks: 
