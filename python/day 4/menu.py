@@ -10,7 +10,7 @@ office_code = "N10"
 date = "20210305"
 
 # 인증키
-key = "개인 "
+key = "개인_"
 
 # 주소
 url = "https://open.neis.go.kr/hub/mealServiceDietInfo"
