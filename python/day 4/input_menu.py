@@ -10,7 +10,7 @@ office_code = "N10"
 date = input("날짜를 입력하세요. (ex: 20210305) : ")
 
 # 인증키
-key = "2c6fbc2a7d3c4252a08a844a37703555"
+key = "개인 "
 
 # 주소
 url = "https://open.neis.go.kr/hub/mealServiceDietInfo"
