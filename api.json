@@ -1,0 +1,10 @@
+{
+    "str": "string", 
+    "list" : ["a", "b","c"],
+    "dict" : {
+        "hello" : "world"
+    },
+    "int" : 5192,
+    "bool" : true,
+    "null" : null
+}
